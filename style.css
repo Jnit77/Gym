@@ -67,3 +67,19 @@ body {
 span{
     color: rgb(3, 3, 159);
 }
+
+.Navigation_bar{
+    background-color: yellow;
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.Poster{
+    position: relative;
+    top: 20px;
+    display: flex;
+    justify-content: center;
+}
